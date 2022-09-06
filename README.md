@@ -8,3 +8,5 @@ I am a graduate student at CMU majoring Business Intelligence and Data Analytics
 I wish I can boarden my data visualization tools and inventories
 
 # My portfolio
+1.
+2.
