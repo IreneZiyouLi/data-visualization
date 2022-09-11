@@ -14,6 +14,9 @@ This is my public portflio for telling stories with data (94870) at CMU!
 ## 1. Visualizing Government Debt
 <iframe src="https://data.oecd.org/chart/6Ofd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ofd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11152989"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 2. placeholder for project #2
 
 3. placeholder for project #3
