@@ -11,7 +11,8 @@ This is my public portflio for telling stories with data (94870) at CMU!
 - I wish I could understand the use of colors and shapes in graphs better!
 
 # My portfolio
-1. placeholder for project #1
+1. Visualizing Government Debt
+<iframe src="https://data.oecd.org/chart/6Ofd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ofd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 2. placeholder for project #2
 
