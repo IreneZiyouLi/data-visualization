@@ -12,9 +12,11 @@ This is my public portflio for telling stories with data (94870) at CMU!
 
 # My portfolio
 ## 1. Visualizing Government Debt
+### Introduction : For this assignment (project), the General Government Debt data from OECD is used. 
+#### The first visualization is a bar chart from OECD original website and visulization. The number (which represents the general government debt as % of GDP) for the United states is highlighted in RED, whereas the OECD-Average number is highlighted in BLACK
 <iframe src="https://data.oecd.org/chart/6Ofd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ofd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-
+#### The second visualization is a grid of line charts created using Flourish, an online data visualization rendering tools. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11152989"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 2. placeholder for project #2
