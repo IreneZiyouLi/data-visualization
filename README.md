@@ -19,6 +19,10 @@ This is my public portflio for telling stories with data (94870) at CMU!
 #### The second visualization is a grid of line charts created using Flourish, an online data visualization rendering tools. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11152989"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+### The second visualization I made is a tree Map
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11165403"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 2. placeholder for project #2
 
 3. placeholder for project #3
