@@ -23,7 +23,7 @@ This is my public portflio for telling stories with data (94870) at CMU!
 ### The third visualization I made is a tree Map
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11165403"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#  What I think about different visualization:
+#  What I think about different visualizations:
 - After learning controlling color and crafting for clarity, I realize finding the balance between simplicity and clarity is one of the most important lessson to learn to be an expert for visualization. Secondly, knowing the audience and figuring out the purpose of the visualization is also a milestone to a successful chart.
 
 - For this project, the first visualization, the single bar graph focus on the comparison between different conturies. The number for the U.S is highlighted as we would always on to track the performance of the United States in most scenarios. The bar is ranked by the number, which could provide the clear ideas on the top and botton countries. If I would have control on redesigning this chart, I would like to widen the bar and enlarge the font for x-ticks as the audience needs to zoom in to precieve the countries' name.
