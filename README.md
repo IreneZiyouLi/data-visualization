@@ -11,10 +11,10 @@ This is my public portflio for telling stories with data (94870) at CMU!
 - I wish I could understand the use of colors and shapes in graphs better!
 
 # My portfolio
-1. Project 1: [Visualizing Government Debt](https://ireneziyouli.github.io/Dataviz_project1/).
+1. Project 1: [Visualizing Government Debt](https://ireneziyouli.github.io/DataViz_Project1/)
 
 
-2. placeholder for project #2
+2. Porject 2: [Data visualization Critique by Design](https://ireneziyouli.github.io/DataViz_Project2/)
 
 3. placeholder for project #3
 
