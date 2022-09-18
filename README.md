@@ -11,7 +11,7 @@ This is my public portflio for telling stories with data (94870) at CMU!
 - I wish I could understand the use of colors and shapes in graphs better!
 
 # My portfolio
-1. Visualizing Government Debt
+1. [Visualizing Government Debt](https://ireneziyouli.github.io/Dataviz_project1/).
 
 
 2. placeholder for project #2
