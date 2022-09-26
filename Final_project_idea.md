@@ -11,14 +11,34 @@ The nutrition intake outlook of people in the U.S. : the trend overtime, the dem
 - The deep dive would include: proverty related to obesity, unhealthy dietary preference of teenagers that lead to some concerns on obesity and diabetes. 
 - In the end, I would provide recommendations on dietary guidelines, and call on public policy makers' action as well.
 
-### Initial Sketches
+## Section 2: Initial Sketches
 ![Initial Sketches-1/3](/img/hw4-1-1.jpg)
 ![Initial Sketches-2/3](/img/hw4-2.jpg)
 ![Initial Sketches-3/3](/img/hw4-1.jpg)
 
 
 
-DATA SOURCE: 
+## Section 3 Data, use of Data, and Data Source: 
 
-[Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System by CDC](https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7)
-[Daily supply of calories per person, 1947 to 2018](https://ourworldindata.org/grapher/daily-per-capita-caloric-supply?tab=chart&country=~USA)
+1. [Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System by CDC](https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7) This data source is found on CDC official website. It provide data on nutrition, physical acitivity and obesity related data for a behavorial risk factor surveillance system on individual level. It aslo has the geogrpahic data (latitude and longtitude which is great for map visualization using Tableau)
+- It will be used for:
+- A Map showing the obesity rate among teenagers for each states (colored map)
+- A bar graph showing Obesity rate per age group
+- And more to come up given the quantity of features included in the dataset
+- NOTE: Tableau Table calculations are expected to realize the desired visualziation!
+2. [Daily supply of calories per person, 1947 to 2018](https://ourworldindata.org/grapher/daily-per-capita-caloric-supply?tab=chart&country=~USA)
+That dataset is found on ourworldindata.org. It includes the daily supply of calories per person for each countries from 1948 to 2018.
+- It will be used for:
+- line (trend) chart showing daily supply of calories per person overtime
+- bar chart showing the top countries having the highest calories supply based on 2018 data 
+- AND more to come up...
+- NOTE: this dataset is publicly available and the website provides the visualization features that could be used to give trials on different Viz.
+
+## Section 4: Method and Medium
+1. For creating data visualization:
+- Data Preprocessing: I would use Python for data preparation if needed as tableau's table calculation has some limitations in several cases
+- Data visualization: Tableau as the main tool 
+2. For telling the story:
+- I would use shorthand as recommended and create a blog as the dominant medium for this project. At this point, I don't see neccesity to use other medium, but would update on this page once being identified.
+
+
