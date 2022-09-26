@@ -1,4 +1,4 @@
-1. Visualizing Government Debt
+# Project 1: Visaulizing Government Debt
 Introduction : For this assignment (project), the General Government Debt data from OECD is used. 
 The first visualization is a bar chart from OECD original website and visulization. The number (which represents the general government debt as % of GDP) for the United states is highlighted in RED, whereas the OECD-Average number is highlighted in BLACK
 <iframe src="https://data.oecd.org/chart/6Ofd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ofd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
@@ -18,3 +18,4 @@ What I think about different visualizations:
 - The second visulization, the gride of line charts shift the focus to the trends over time for each individual countries. With this purpose, the actual number of debt-to-GDP Ratio couldn't be easily caught by simply looking at the chart. That tells us that sometimes we don't need to provide all the information on one visulization if it's not the main point of the chart. 
 
 - The third visulization I choose is a treemap. The initial purpose of creating this treemap is to combine the comparion between years and then detailed to the comparion between countries in each year. As shown in the graph above, we could precieve the general ratios by the size of the year. Moreover, the leading countries (that had high debt-to-GDP Ratio for this specific year) would have label on it. The rainbow color is choosen as it's hard to create a color hiearchy given that more than 25 years are presenting here. However, I found it difficult to provide the accurte information as many countries doesn't have data for certain years. 
+
