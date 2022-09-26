@@ -34,6 +34,10 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 - AND more to come up...
 - NOTE: this dataset is publicly available and the website provides the visualization features that could be used to give trials on different Viz.
 
+#### The datasets are uploaded to the data folder in this reposiotry:
+<meta http-equiv="refresh" content="0" url="http://ireneziyouli.github.io/data-visualization-portfolio/data/work.html" />
+
+
 ## Section 4: Method and Medium
 1. For creating data visualization:
 - Data Preprocessing: I would use Python for data preparation if needed as tableau's table calculation has some limitations in several cases
