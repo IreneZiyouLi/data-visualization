@@ -12,7 +12,9 @@ The nutrition intake outlook of people in the U.S. : the trend overtime, the dem
 - In the end, I would provide recommendations on dietary guidelines, and call on public policy makers' action as well.
 
 ### Initial Sketches
-
+![Initial Sketches-1/3](/img/hw4-1-1.jpg)
+![Initial Sketches-2/3](/img/hw4-2.jpg)
+![Initial Sketches-3/3](/img/hw4-1.jpg)
 
 
 
