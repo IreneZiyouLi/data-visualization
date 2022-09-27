@@ -33,6 +33,8 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 - bar chart showing the top countries having the highest calories supply based on 2018 data 
 - AND more to come up...
 - NOTE: this dataset is publicly available and the website provides the visualization features that could be used to give trials on different Viz.
+3. [Most ordered food items in the United States 2021, by growth in popularity from Statista](https://www.statista.com/statistics/376481/most-popular-restaurant-food-items-us/)
+-  This data from statista (although it's not a dataset) would be used to domonstrate the top favorite food in the U.S. (based on the growth) and will be used to join with food calories dataset in order to visulize the nutrition facts of those American's most ordered foods. 
 
 #### The datasets are uploaded to the data folder in this reposiotry:
 
