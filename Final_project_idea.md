@@ -52,7 +52,7 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 - I would use shorthand as recommended and create a blog as the dominant medium for this project. At this point, I don't see neccesity to use other medium, but would update on this page once being identified.
 
 
-## Feedback from In-class Critique
+## Other Feedbacks from In-class Critique (Action pending)
 - Questions came up:
 i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
 Solution: investigate on state level obesity rate (top 5 and pennsylvania speicifically) and show as highlight on the map (data source already identified)
