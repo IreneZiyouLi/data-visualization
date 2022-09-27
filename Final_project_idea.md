@@ -39,7 +39,7 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 3. [Most ordered food items in the United States 2021, by growth in popularity from Statista](https://www.statista.com/statistics/376481/most-popular-restaurant-food-items-us/)
 -  This data from statista (although it's not a dataset) would be used to domonstrate the top favorite food in the U.S. (based on the growth) and will be used to join with food calories dataset in order to visulize the nutrition facts of those American's most ordered foods. 
 
-#### The datasets are uploaded to the data folder in this reposiotry: [data-visaulization=portfolio/Data](https://github.com/IreneZiyouLi/data-visualization-portfolio/tree/main/data)
+#### The datasets are uploaded to the data folder in this reposiotry: [data-visaulization-portfolio/Data](https://github.com/IreneZiyouLi/data-visualization-portfolio/tree/main/data)
 
 
 ## Section 4: Method and Medium
