@@ -10,13 +10,16 @@ The nutrition intake outlook of people in the U.S. : the trend overtime, the dem
 - So far I've been focused on the nutrients related to the food, then I will move the "People" side of the story: how the nutrition outlook is according to demographic partitions (gender, age, geographic/state, salary level), which I will draw some meaningful conclusions on who are the people that should be cared about more about their dietary intake, and then deep dive into several important factors. 
 - The deep dive would include: proverty related to obesity, unhealthy dietary preference of teenagers that lead to some concerns on obesity and diabetes. 
 - In the end, I would provide recommendations on dietary guidelines, and call on public policy makers' action as well.
+-
 
 ## Section 2: Initial Sketches
 ![Initial Sketches-1/3](/img/hw4-1-1.jpg)
 ![Initial Sketches-2/3](/img/hw4-2.jpg)
 ![Initial Sketches-3/3](/img/hw4-1.jpg)
 
-
+Adding to the initial sketches regarding recommendations & conclusions (inspired from the Critique's feedback):
+1. To policy maker/ school administration: modify public school menu to provide more nutritional school meals.
+2. To resturants/ food providers: also provide nutrition facts and calories information (preferably available before people make orders).
 
 ## Section 3 Data, use of Data, and Data Source: 
 
@@ -47,5 +50,15 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 - Data visualization: Tableau as the main tool 
 2. For telling the story:
 - I would use shorthand as recommended and create a blog as the dominant medium for this project. At this point, I don't see neccesity to use other medium, but would update on this page once being identified.
+
+
+## Feedback from In-class Critique
+- Questions came up:
+i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
+Solution: investigate on state level obesity rate (top 5 and pennsylvania speicifically) and show as highlight on the map (data source already identified)
+- New Inspiration arose:
+i.  investigate the relationship between income group and obesity rate ---really good point from a public policy perspective.
+ii. investigate the calories burned by exercises/physical acitvites --- could be added to the recommendations.
+
 
 
