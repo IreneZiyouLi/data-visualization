@@ -10,7 +10,6 @@ The nutrition intake outlook of people in the U.S. : the trend overtime, the dem
 - So far I've been focused on the nutrients related to the food, then I will move the "People" side of the story: how the nutrition outlook is according to demographic partitions (gender, age, geographic/state, salary level), which I will draw some meaningful conclusions on who are the people that should be cared about more about their dietary intake, and then deep dive into several important factors. 
 - The deep dive would include: proverty related to obesity, unhealthy dietary preference of teenagers that lead to some concerns on obesity and diabetes. 
 - In the end, I would provide recommendations on dietary guidelines, and call on public policy makers' action as well.
--
 
 ## Section 2: Initial Sketches
 ![Initial Sketches-1/3](/img/hw4-1-1.jpg)
