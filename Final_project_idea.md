@@ -42,20 +42,20 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 
 
 ## Section 4: Method and Medium
-1. For creating data visualization:
-- Data Preprocessing: I would use Python for data preparation if needed as tableau's table calculation has some limitations in several cases
-- Data visualization: Tableau as the main tool 
-2. For telling the story:
-- I would use shorthand as recommended and create a blog as the dominant medium for this project. At this point, I don't see neccesity to use other medium, but would update on this page once being identified.
+  1. For creating data visualization:
+  - Data Preprocessing: I would use Python for data preparation if needed as tableau's table calculation has some limitations in several cases
+  - Data visualization: Tableau as the main tool 
+  2. For telling the story:
+  - I would use shorthand as recommended and create a blog as the dominant medium for this project. At this point, I don't see neccesity to use other medium, but would update on this page once being identified.
 
 
 ## Other Feedbacks from In-class Critique (Action pending)
-- Questions came up:
-i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
-Solution: investigate on state level obesity rate (top 5 and pennsylvania speicifically) and show as highlight on the map (data source already identified)
-- New Inspiration arose:
-i.  investigate the relationship between income group and obesity rate ---really good point from a public policy perspective.
-ii. investigate the calories burned by exercises/physical acitvites --- could be added to the recommendations.
+  - Questions came up:
+  i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
+  Solution: investigate on state level obesity rate (top 5 and pennsylvania speicifically) and show as highlight on the map (data source already identified)
+  - New Inspiration arose:
+  i.  investigate the relationship between income group and obesity rate ---really good point from a public policy perspective.
+  ii. investigate the calories burned by exercises/physical acitvites --- could be added to the recommendations.
 
 
 
