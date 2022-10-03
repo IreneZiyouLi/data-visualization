@@ -51,11 +51,11 @@ That dataset is found on ourworldindata.org. It includes the daily supply of cal
 
 ## Other Feedbacks from In-class Critique (Action pending)
   - Questions came up:
-  i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
+  - i.  What would be the state level data? Since focusing on the whole U.S. iS too wide, probably would be better to show the states have highest obesity rate (Top 3). 
   Solution: investigate on state level obesity rate (top 5 and pennsylvania speicifically) and show as highlight on the map (data source already identified)
   - New Inspiration arose:
-  i.  investigate the relationship between income group and obesity rate ---really good point from a public policy perspective.
-  ii. investigate the calories burned by exercises/physical acitvites --- could be added to the recommendations.
+  - i.  investigate the relationship between income group and obesity rate ---really good point from a public policy perspective.
+  -- ii. investigate the calories burned by exercises/physical acitvites --- could be added to the recommendations.
 
 
 
