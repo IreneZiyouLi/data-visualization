@@ -23,6 +23,10 @@ To keep the interview responses balance, I targeted to interview one individual 
 - Wrap-up:
 - "Thank you for taking your time! Wish you have a good day and keep healthy!"
 ### the findings from interviews
-
+To prevent enclose PII information, I would provide the summary of positive and negative(area of improvement) from the interview.
+- Positives:
+1. the langauge used is easily to understand (precieved by all 3 interviewees)
+2. the visualization is not confusing (but not fancy as well)
+3. 
 
 ### changes planned on implementing to update visualizations next week to address the issues identified
