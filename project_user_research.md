@@ -27,7 +27,13 @@ To prevent enclose PII information, I would provide the summary of positive and 
 - Positives:
 1. the langauge used is easily to understand (precieved by all 3 interviewees)
 2. the visualization is not confusing (but not fancy as well)
-
-- Neg
+3. one audience expressed impression that she should pay more attention to what she eats on a daily basis and would like to learn more about this topic. 
+- Negatives:
+1. the interviewee who actually had a lot of background on food health and nutrition shared the concern about if the message from the story would be too scary to some of the audience, for example, those who already experience eating disorder (eat far less than 1000 calories per day). I think this feedback is extremely helpful as I don't want to influence the audience in a negative way
+2. "I get your idea but I am so busy to choose among healthy choice and I bet many people could only afford those junk options"
 
 ### changes planned on implementing to update visualizations next week to address the issues identified
+- Additions:
+1. information provided to provide some affordable yet healthy options to audiences who do want to make a difference
+2. investigate and include the food health VS. poverty, and make recommendation on that as well
+3. include the oppsoite side as well (for those experience eating disorders): under-eating is also not healthy!
