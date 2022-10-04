@@ -15,3 +15,7 @@
 ![fig3](/img/part2_3.jpg)
 ![fig4](/img/part2_4.jpg)
 ![fig5](/img/part2_5.jpg)
+
+
+#### Shorthand (in development)
+[Preview of the shorthand storyboard](https://preview.shorthand.com/e8jbm79uX6HjcrJE)
