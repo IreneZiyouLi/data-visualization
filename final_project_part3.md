@@ -28,3 +28,7 @@
 ### Adjustment to tailor the specific audience:
 1. changes on call to action: already described in section 1
 2. add more easily understood introduction on macronutrients, avoiding using terminology.
+3. Focus more on easy and actionable recommendations that everyone could take the action starting at the moment they see the stories!
+
+## The final storyboard
+<script src="https://carnegiemellon.shorthandstories.com/how-healthy-we-are-right-now/embed.js"></script>
