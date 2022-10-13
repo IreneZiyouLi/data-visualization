@@ -21,5 +21,10 @@
 
 
 ## Section 2: Re-identified Audience
-### Primary Target Audience:
+### Primary Target Audiences:
+- Individuals who lack of knowledge on nutritions and healthy diet.
+- Individuals who are already identified as overweight or obese.
+- parents who are careless about their kids' diet.
 ### Adjustment to tailor the specific audience:
+1. changes on call to action: already described in section 1
+2. add more easily understood introduction on macronutrients, avoiding using terminology.
