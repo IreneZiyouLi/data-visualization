@@ -1,6 +1,6 @@
 # Part III: Final data story
 ## Section 1: change being made from Part II
-#### 1. Narrow down to "eating habits" and nutrition factors related to health:
+### 1. Narrow down to "eating habits" and nutrition factors related to health:
 - In part 2, I included information related to the calories burned by different physical activties. The initial purpose was to inform the audience way to burn out the calories they might help to conteract the calories gained from unhealthy food. However, I found it hard to be integrated it to the story without bringing up a larger topic and distract the audience.
 - Therefore, I choose to go in details on nutrition information, how it would influence our health, and deep dive into help macronutrient different from each other. That would be more aligned with the call to actions as well
 ### 2. changes to Call to Action
