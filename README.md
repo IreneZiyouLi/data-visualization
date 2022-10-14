@@ -16,7 +16,7 @@ This is my public portflio for telling stories with data (94870) at CMU!
 
 ### Porject 2: [Data visualization Critique by Design](https://ireneziyouli.github.io/DataViz_Project2/) <br/>
 
-### Final Project: How healthy we are eating right now in the U.S.? <br/>
+### Final Project: [How healthy we are eating right now in the U.S.?](https://carnegiemellon.shorthandstories.com/how-healthy-we-are-right-now/index.html) <br/>
 #### 1. Part 1: [outline, data, medium selection](https://ireneziyouli.github.io/data-visualization-portfolio/Final_project_idea) <br/>
 #### 2. Part 2: [Storyboard, User research, and Prototype](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part2) <br/>
 #### 3. Part 3: [final revision, final story board](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part3) <br/>
