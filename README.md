@@ -11,11 +11,12 @@ This is my public portflio for telling stories with data (94870) at CMU!
 - I wish I could understand the use of colors and shapes in graphs better!
 
 # My portfolio
-1. Project 1: [Visualizing Government Debt](https://ireneziyouli.github.io/DataViz_Project1/)
+### Project 1: [Visualizing Government Debt](https://ireneziyouli.github.io/DataViz_Project1/) <br/>
 
 
-2. Porject 2: [Data visualization Critique by Design](https://ireneziyouli.github.io/DataViz_Project2/)
+### Porject 2: [Data visualization Critique by Design](https://ireneziyouli.github.io/DataViz_Project2/) <br/>
 
-3. placeholder for project #3
-
-4. Final Project
+### Final Project: How healthy we are eating right now in the U.S.? <br/>
+#### 1. Part 1: [outline, data, medium selection](https://ireneziyouli.github.io/data-visualization-portfolio/Final_project_idea) <br/>
+#### 2. Part 2: [Storyboard, User research, and Prototype](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part2) <br/>
+#### 3. Part 3: [final revision, final story board](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part3) <br/>
