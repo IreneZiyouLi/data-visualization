@@ -1,4 +1,5 @@
-# Part III: Final data story
+# Part III: Final) data story
+### Note: [part I](https://ireneziyouli.github.io/data-visualization-portfolio/Final_project_idea) and [part II](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part2) of this project can be found here.
 ## Section 1: change being made from Part II
 ### 1. Narrow down to "eating habits" and nutrition factors related to health:
 - In part 2, I included information related to the calories burned by different physical activties. The initial purpose was to inform the audience way to burn out the calories they might help to conteract the calories gained from unhealthy food. However, I found it hard to be integrated it to the story without bringing up a larger topic and distract the audience.
