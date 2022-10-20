@@ -1,5 +1,6 @@
 # Final Project Part II: Storyboard, User research, and Prototype
 ### Part I of the final Project can be found [here](https://ireneziyouli.github.io/data-visualization-portfolio/Final_project_idea), to track the progress.
+### Part III of the final project can be found [here](https://ireneziyouli.github.io/data-visualization-portfolio/final_project_part3)
 
 ## Updated Wireframes & Storyboards
 - The following developed wireframes is a updated version from initial sketches in part I of the final project.
